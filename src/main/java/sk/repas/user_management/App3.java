@@ -13,5 +13,5 @@ public class App3 {
 		List<Group> groups = groupDao.getAll();
 		System.out.println(groups);
 	}
-
+	// toto je zbytocna trieda
 }
